@@ -1,0 +1,43 @@
+
+*{
+padding: 0%;
+margin: 0%;
+}
+divpai{
+width: 1000%;
+height: 1000%;
+}
+#topo{
+    width: 80%;
+    height: 25px;
+    background-color:gray;
+    padding: 5px;
+    float: left;
+  }
+  #corpo{
+      width: 80%;
+      height: 450px;
+      background-color:#D3D3D3;
+            padding: 5px;
+      float: left;
+    }
+  #rodape
+  {
+      width: 80%;
+      height: 28px;
+      background-color:rgb(233, 233, 255);
+      padding: 5px;
+      float: left;
+    }
+    #enquete 
+    {
+        width: 19%;
+        height: 530px;
+        background-color:rgb(72, 46, 82);
+   
+        float:right;
+    }
+  body{
+      text-align: center;
+      margin-left: auto;
+  }
